@@ -1,1 +1,9 @@
-
+Roll: 212121160
+Name: Bighnesh Lenka
+Gender: Male
+Mobile: 9777390689
+Website: github.com/neostark3
+DOB: 14/09/1999
+Address: Cuttack
+Email: lenka.bighnesh003@gmail.com
+Remarks: 8
