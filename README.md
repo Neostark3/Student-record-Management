@@ -42,9 +42,9 @@ This program is a Database Management System that allows users to interact with 
 
 ## Acknowledgments
 
--[**Codemy YT**](https://www.youtube.com/@Codemycom) for designing the app
--[**plus2net YT**](https://www.youtube.com/@plus2net1) for storing and displaying photo via BLOB
--[**Pravat YT**](https://www.youtube.com/@parvatcomputertechnology) for ideas and base designing
+- [**Codemy YT**](https://www.youtube.com/@Codemycom) for designing the app
+- [**plus2net YT**](https://www.youtube.com/@plus2net1) for storing and displaying photo via BLOB
+- [**Pravat YT**](https://www.youtube.com/@parvatcomputertechnology) for ideas and base designing
 
 ## Contact
 
